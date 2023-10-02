@@ -23,7 +23,7 @@
 
 
 - Il prossimo passo è quello di creare un metodo che verifica le caratteristiche richieste del numero di telefono\
-- Per verificare la lunghezza della stringa e i prefissi, bisogna usare un if e se ritorna vero signifa che è valido il prefisso\
+- Per verificare la lunghezza della stringa e i prefissi, bisogna usare un if e se ritorna vero significa che è valido il prefisso\
 ###
     if(num.Lenght == 13 && (num.StartsWith("+39"))
     {
